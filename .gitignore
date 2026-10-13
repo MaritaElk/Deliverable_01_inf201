@@ -1,0 +1,7 @@
+.venv/
+venv/
+.vscode/
+frost_credentials.txt
+__pycache__/
+*.py[cod]
+.env
